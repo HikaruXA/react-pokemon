@@ -2,6 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
+    // Test
     <footer
       style={{
         padding: "10px",
